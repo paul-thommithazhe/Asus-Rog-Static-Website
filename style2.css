@@ -1,0 +1,364 @@
+body {
+    margin: 0;
+    font-family: Xolonium-Regular;
+   
+
+}
+/* * {
+    outline: 1px solid #f00 !important;
+  } */
+.container {
+    background-color: black;
+    padding: 12px;
+    justify-content: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: -106px;
+
+}
+.line{
+    border:none;
+  height: 20px;
+ 	width: 90%;
+	height: 50px;
+	margin-top: 0;
+	border-bottom: 1px solid #aaa;
+	box-shadow: 0 20px 20px -20px #333;
+  margin: -50px auto 10px; 
+}
+.final-text{
+    font-weight: bold;
+    margin-left: 52px;
+}
+
+.list-items-header {
+    display: flex;
+    font-weight: bold;
+
+}
+.lap{
+    margin-left: -86px
+}
+.div2 a {
+    padding-left: 12px;
+}
+
+.div3 a {
+    padding-left: 12px;
+}
+
+.div4 a {
+    padding-left: 12px;
+}
+
+.div5 a {
+    padding-left: 12px;
+}
+
+
+.div6 a{
+    padding-left: 12px;
+ }
+.asus-image-t1 {
+    display: flex;
+    padding-top: 90px;
+    margin-top: 5px;
+
+}
+.div1 a:hover{
+   color: red;
+}
+.div2 a:hover{
+    color: red;
+ }
+ .div3 a:hover{
+    color: red;
+ }
+ .div4 a:hover{
+    color: red;
+ }
+ .div5 a:hover{
+    color: red;
+ }
+ 
+ .div6 a:hover{
+    color: red;
+ }
+.container img {
+    height: 100px;
+    width: 100px;
+}
+
+.image2 img {
+    height: 643px;
+    /* width: 1518px; */
+    width: 100%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.section2 h2 {
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.subimages {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sectionmain2 {
+    padding: 65px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: segoeui;
+
+}
+
+.section5 h2 {
+    padding-top: 80px;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
+
+.section5 {
+    width: 100%;
+    height: 1297px;
+    background-image: url(image/blackimage.jpg);
+
+}
+
+.subsection5 {
+    display: flex;
+    transition: transform .4s;
+
+}
+
+.simage1 {
+    background-image: url(image/mouse.jpg);
+    width: 572px;
+    height: 502px;
+    margin-left: 20px;
+    background-repeat: no-repeat;
+
+}
+
+.simage2 {
+    background-image: url(image/monitor.jpg);
+    width: 572px;
+    height: 502px;
+    margin-left: 20px;
+    background-repeat: no-repeat;
+}
+
+.simage3 {
+    background-image: url(image/hardware.jpg);
+    width: 572px;
+    height: 502px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-repeat: no-repeat;
+}
+
+.simage1:hover {
+    transform: scale(1.1);
+}
+
+.simage2:hover {
+
+    transform: scale(1.1);
+}
+
+.simage3:hover {
+
+    transform: scale(1.1);
+
+}
+
+.section6 {
+    display: flex;
+}
+
+.s2image1 {
+    background-image: url(image/monitor2.jpg);
+    width: 747px;
+    height: 402px;
+    margin-top: 20px;
+    margin-left: 77px;
+
+}
+
+.s2image2 {
+    background-image: url(image/manwithmonitor.jpg);
+    width: 747px;
+    height: 402px;
+    margin-top: 20px;
+    margin-left: 28px;
+    margin-right: 74px;
+}
+
+.s2image1:hover {
+    transform: scale(1.1);
+}
+
+.s2image2:hover {
+    transform: scale(1.1);
+}
+
+.section5text h2 {
+    color: red;
+    font-size: 17px;
+}
+
+.roginaction h2 {
+    color: black;
+    text-align: center;
+    font-size: 36px;
+
+
+}
+
+.s6image1 {
+    background-image: url(image/s6image1.png);
+    width: 490px;
+    height: 255px;
+    margin-left: 73px;
+    margin-right: 30px;
+    object-fit: fill;
+}
+
+.s6image2 {
+    background-image: url(image/s6image2.png);
+    width: 490px;
+    height: 255px;
+    margin-left: 30px;
+    background-size: 100% 100%;
+
+}
+
+.s6image3 {
+    background-image: url(image/s6image3.png);
+    width: 490px;
+    height: 255px;
+    margin-left: 30px;
+    margin-left: 88px;
+    background-size: 100% 100%;
+}
+
+.section7 {
+    background-image: url(image/section7-img.png);
+    margin-top: 230px;
+    width: 100%;
+    display: flex;
+    width: auto;
+    height: 400px;
+    background-size: 100% 100%;
+} 
+ .s7heading {
+    padding-left: 1091px;
+    padding-top: 118px;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top:26px;
+     display: flex; 
+ }  
+
+/* .rog-story-p{
+    color: white;
+    display: flex;
+    height: 12px;
+    display: flex;
+    justify-content: center;
+    margin-top: -82px;
+   
+} */
+
+.footer {
+    background-color: black;
+    width: 100%;
+    height: 500px;
+   
+}
+
+.footer h2 {
+    margin: 0;
+    margin-top: 59px;
+    margin-top: -3px;
+    width: 180px;
+   
+    margin-left: 91px;
+    padding-top:52px;
+    color:#aaa;
+}
+h2:hover{
+    color: rgb(227, 0, 23);
+}
+.ph{
+    margin-right: -54px;
+}
+.whatsap{
+    width: 42px;
+    color: inherit;
+    background-color:inherit;
+}
+.social-links{
+    margin-top: -43px;
+    display: flex;
+    justify-content: center;
+    padding-left: 1100px;
+}
+.twitter{
+    margin-left:12px;
+}
+.youtube{
+    margin-left:12px;
+}
+.instagram{
+    margin-left:12px;
+}
+.whatsap{
+    margin-left:12px;
+}
+.final-image{
+    margin-left: 441px;
+    background-repeat: no-repeat;
+   
+}
+.final-img img{
+    margin-left: 34px;
+}
+.final-text{
+    color: white;
+}
+.final-text-text{
+    display: flex;
+    margin-top: -52px;
+    margin-left: 920px;
+    font-weight: bold;
+}
+.final-text-text .second{
+    padding-left:15px;
+}
+.final-text-text .third{
+    padding-left: 15px;
+}
+
+.final-text-text .second:hover{
+    color:red;
+}
+.final-text-text .third:hover{
+    color:red;
+}
