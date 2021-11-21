@@ -14,8 +14,11 @@ body {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    margin-top: -106px;
+    margin-top: -134px;
 
+}
+.subnames li:hover{
+color:red;
 }
 .line{
     border:none;
